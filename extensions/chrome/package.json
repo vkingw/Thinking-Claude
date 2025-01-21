@@ -1,6 +1,6 @@
 {
   "name": "thinking-claude",
-  "version": "3.2.1",
+  "version": "3.2.3",
   "description": "Chrome extension for letting Claude think like a real human",
   "type": "module",
   "scripts": {
@@ -16,7 +16,8 @@
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md}\"",
     "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,css,md}\"",
     "fix": "bun run format && bun run lint:fix",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "check-version-sync": "bun ./scripts/check-version-sync.ts"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.1",

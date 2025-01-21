@@ -8,6 +8,12 @@ Let Claude think comprehensively before responding!
 
 ## Demo
 
+use in chat with the latest Chrome extension featured with a instruction selector:
+
+https://github.com/user-attachments/assets/afa0f64f-53e5-45bc-9ad8-0641b29d2b77
+
+use in project with legacy extension:
+
 https://github.com/user-attachments/assets/88ff0c75-c51b-42b9-a042-00d47053795a
 
 ## Overview
